@@ -14,6 +14,9 @@ Individual Reflection:
 Personally, I feel that as the developer of the group i have a responsibility to work on and make sure I make our project up to the standards which everyone will be satisfied with and push myself to do better.
 
 
+
+
+
 Week 2
 
 Team Progress:
