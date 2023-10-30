@@ -1,6 +1,7 @@
 # PFD-BLOG
 
 Week 1
+
 Team Progress:
 This week our group met up and discussed about the ideas we had come up with over brainstorming and researching the past week and which ones we would use for this project. We also finalised our roles for the project. 
 
