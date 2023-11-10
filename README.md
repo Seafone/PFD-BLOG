@@ -26,3 +26,15 @@ This week my group took the feedback that we got from the OCBC Coach and managed
 Individual Reflection/ OAL materials reflection:
 
 This week i have looked through the OAL material of design thinking and it helped me to be able to come up with ideas with my group. With this new knowledge I was able to ideate with my teammates effectively and managed to come up with an idea that we thought addressed the problem statement and was satisfactory. 
+
+
+
+
+
+Week 3
+
+Team Progress: 
+This week my group started the basic development of our functions and outlook. We also worked on completely finishing the wireframe of our entire product. As a result, we managed to start on our AI voice recognition system, setup our SCRUM dashboard with the different sprints. We brainstormed finalised ideas too. One idea we discussed involves integrating an AI chatbox tailored for users with autism. This chatbot enables users to sign up for a bank account using voice recognition, mimicking the experience of an in-person bank visit. This is to reduce physical bank visits for new account openings and encourage users to open accounts online. This innovative approach aims to streamline the process and boost online account openings.
+
+Individual Reflection:
+This week while discussing with the group to finalise our idea and also starting basic parts of our functions. I have helped out with adding the data into our data base which is needed for our login details. I also managed to help out by starting the fake data for yeow teik to use to train the AI model. All in all the pase is starting to ramp up for the assignment as we push towards completing our goals.
