@@ -44,6 +44,7 @@ This week while discussing with the group to finalise our idea and also starting
 
 
 Week 4
+
 Team Progress:
 In Week 4, I did my front-end development which was doing the landing page for the website, I designed the webpage with comaprison to the original OCBC webpage and did my best to make it as close to the result as possible. I also started brainstorming ideas on how I would do the presentation as i was incharge of doing the presentation. Our group spent alot of this time working on our individual assigned functions and trying our best to make sure that these functions were up and ready as soon as possible. We have complete important functions such as, AI chatbot, facial recognition, and dashboard. However there is still some bugs and errors to be fixed.
 
@@ -55,6 +56,7 @@ Individual Reflection: This week I have decided to pick up the pase on my projec
 
 
 Week 5
+
 Team Progress:
 In Week 5, My team and I are having a hackaton for this assignemnt. During this 3 day of hackaton period, I managed to complete the landing page for front end development. I also manged to Plan and finish doing up the powerpoint slides and the structure which I wish for my presentation to be executed on the day of presentation. I also managed to type out a script which i managed to shortern into point form to help me better remember and memorise the points and structure in which i want to present the presentation when the time comes.
 For team progress and development, We are still having issues trying integrating our front and back end. Hopefully Nathan and Yeowteik will be able to fix the integration issues on time. Further more we had many backend issue such as unable to get chatbot response from the server. Hence we are trying to fix the issue and make the website functionable.
